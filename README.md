@@ -1,4 +1,4 @@
 # BDD-SI-Mini-Projet
 Réalisé par : 
-hoadifa echffani 
-Mohamed Amine BAHASSOU
+hoadifa echffani ,
+ Mohamed Amine BAHASSOU
