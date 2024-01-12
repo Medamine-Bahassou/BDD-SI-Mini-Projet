@@ -1,6 +1,6 @@
 # Requete SQL
 
-## 1)	Création une base de donnée appelée « Biblio » 
+##1)	Création une base de donnée appelée « Biblio » 
 create database Biblio ;
 
 ## 2)	Crée toutes les tables requise à la gestion de Bibliothèque 
